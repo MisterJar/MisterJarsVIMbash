@@ -138,7 +138,9 @@ export PATH=$ANT_ROOT:$PATH
 
 
 
-
+#=============================================================
+ONLY COPY THE STUFF BELOW THE REST IS JUST STUFF THAT YOU DONT NEED! THANK YOU!
+#=============================================================
 
 
 PS1="\[$(tput setaf 157)\]\t"
