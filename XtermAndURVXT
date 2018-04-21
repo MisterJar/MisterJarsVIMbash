@@ -1,7 +1,7 @@
 xterm*background: black
 xterm*foreground: lightgray
 xterm*font:     *-fixed-*-*-*-18-*
-#add the monospace font.
+
 
 URxvt.scrollBar:	    false
 URxvt.cursorBlink: 	    false 
