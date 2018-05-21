@@ -1,6 +1,6 @@
 xterm*background: black
 xterm*foreground: lightgray
-xterm*font:     *-fixed-*-*-*-18-*
+xterm*font:     *-fixed-*-*-*-20-*
 
 
 URxvt.scrollBar:	    false
